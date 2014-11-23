@@ -1,0 +1,5 @@
+.columns {
+	background-color:blue;
+	width: 50%;
+	float: left;
+}
