@@ -1,0 +1,27 @@
+body{
+	background: #A3A3C2;
+}
+
+h1 {
+	color:#244700;
+	font-family: "Georgia";
+	text-align:center;
+}
+h2{
+	font-family: "Georgia";
+	text-align:center;
+}
+p{
+	line-height: 19px;
+}
+a{
+	text-decoration: none ;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#upper {
+	text-transform: uppercase;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>Splunk Dashboard Redirect</title>
+		<link rel="stylesheet" type="text/css" href="navigation.css"/>
+	</head>
+<body class="splunkflyers">
+	<ul class="nav">
+  <li class="nav"> <button type="button"><a href="createnav.html">Home Page</a></button></li>
+  <li class="nav"> <button type="button"><a href="philadelphiaeaglespage">Philadelphia Eagles</a></button></li>
+  <li class="nav"> <button type="button"><a href="philadelphiaflyerspage">Philadelphia Flyers</a></button></li>
+  <li class="nav"> <button type="button"><a href="philadelphiaphilliespage">Philadelphia Phillies</a></button></li>
+</ul>
+<br> </br>
+<h1> Philadelphia Flyers</h1>
+<div class="image">
+<img class="img" src="philadelphiaflyers1.jpeg">  </img>
+<img class="img" src="philadelphiaflyers2.jpg"> </img>
+<img class="img" src="broadstreetbullies.jpg">  </img>
+<img class="img" src="wellsfargo.jpg"> </img>
+
+</div>
+<div class="paragraph"> 
+<h3> History</h3>
+<p> The Philadelphia Flyers were formed in 1966 and were named based on a contest winner. Among the Flyers' 20 selections in the first NFL expansion draft were Bernie Parent, Doug Favell, Bill Sutherland, Ed Van Impe, Joe Watson, Lou Angotti, Leon Rochefort and Gary Dornhoefer. The Flyers picked up Bobby Clarke in the 1969 draft and quickly discovered him to be one of the best players on the team.</p>
+<p>  On December 11, 1969, the Flyers introduced what would become one of the team's best-known traditions: playing a recording of Kate Smith singing God Bless America instead of the The Star-Spangled Banner before important games. The perception was that the team was more successful on these occasions, so the tradition grew. The move was initially done by Flyers promotion director Lou Scheinfeld as a way to defray national tensions at the time of the Vietnam War: Scheinfeld noticed that people would regularly leave their seats and walk around during the anthem, but showed more respect and often sang along to "God Bless America". To this day, the team plays the song before major playoff games, currently with Lauren Hart (daughter of Hall of Fame Flyers broadcast announcer Gene Hart) performing the first part of the song, a recording of Smith singing the second part, and Lauren Hart joining the recording for the finale. As of the close of the 2013–14 Flyers season, the Flyers have a record of 96–28–4 when God Bless America is sung prior to Flyers home games.</p>
+</div>
+<div class="paragraph"> 
+<h3> Broad Street Bullies</h3>
+<p>The 1972-73 Flyers became the intimidating Broad Street Bullies, a nickname coined by Jack Chevalier and Pete Cafone of the Philadelphia Bulletin on January 3, 1973. This occured after a 3 to 1 brawling victory over the Atlanta Flames that led Chevalier to write in his game account, "The image of the fightin' Flyers spreading gradually around the NHL, and people are dreaming up wild nicknames. They're the Mean Machine, the Bullies of Broad Street and Freddy's Philistines." Cafone wrote the accompanying headline, "Broad Street Bullies Muscle Atlanta </p>
+</div>
+<div class="paragraph"> 
+<h3> Stanley Cup Champs</h3>
+<p>Throughout the 1973 & 74 season, the Flyers often used a recording of Kate Smith singing "God Bless America" instead of the national anthem. Smith herself appeared before Game 6 in the Stanley Cup Finals to lead the crowd in the song, even miming a "knockout punch" after her performance.Come playoff time, the Flyers swept the Atlanta Flames in four games in the first round. In the semifinals, the Flyers faced the New York Rangers. The series, which saw the home team win every game, went seven games. Fortunately for the Flyers, they had home-ice advantage as they advanced to the Stanley Cup Finals by winning Game 7 and in the process made history by becoming the first expansion team to win a playoff series over an original six team. Their opponent, Bobby Orr and the Boston Bruins, took Game 1 in Boston, but Bobby Clarke scored an overtime goal in Game 2 to even the series. The Flyers won Games 3 and 4 at home to take a 3 to 1 series lead, but Boston won Game 5 to stave off elimination. That set the stage for Game 6 at the Spectrum. The Flyers picked up the lead early when Rick MacLeish scored a first period goal. Late in the game, Orr hauled down Clarke on a breakaway, a penalty which assured the Flyers of victory. Time expired as the Flyers brought the Stanley Cup to Philadelphia for the first time. Parent, having shutout Boston in Game 6, won the Conn Smythe Trophy as the Playoff MVP.
+ </p>
+</div>
+</body>
+</html>

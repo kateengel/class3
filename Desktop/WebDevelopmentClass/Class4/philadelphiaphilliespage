@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>Splunk Dashboard Redirect</title>
+		<link rel="stylesheet" type="text/css" href="navigation.css"/>
+	</head>
+<body class="splunkphillies">
+	<ul class="nav">
+  <li class="nav"> <button type="button"><a href="createnav.html">Home Page</a></button></li>
+  <li class="nav"> <button type="button"><a href="philadelphiaeaglespage">Philadelphia Eagles</a></button></li>
+  <li class="nav"> <button type="button"><a href="philadelphiaflyerspage">Philadelphia Flyers</a></button></li>
+  <li class="nav"> <button type="button"><a href="philadelphiaphilliespage">Philadelphia Phillies</a></button></li>
+</ul>
+<br> </br>
+<h1> Philadelphia Phillies</h1>
+<div class="image">
+<img class="img" src="philadelphiaphillies1.jpeg">  </img>
+<img class="img" src="philadelphiaphillies2.jpg"> </img>
+<img class="img" src="citizenbankpark.jpeg">  </img>
+<img class="img" src="2008worldseries.jpeg"> </img>
+
+</div>
+<div class="paragraph1"> 
+	<h3> History </h3>
+	<p>The Philadelphia Phillies are an American professional baseball team based in Philadelphia, Pennsylvania. They are the oldest continuous, one-name, one-city franchise in all of professional American sports, dating to 1883. The Phillies are a member of the Eastern Division of Major League Baseball's National League (NL). Since 2004, the team's home has been Citizens Bank Park which is located in South Philadelphia. </p>
+	</div>
+<div class="paragraph2">
+<h3> Champions </h3> 
+	<p>The Phillies have won two World Series championships against Kansas City in 1980 and Tampa Bay in 2008, and seven National League pennants, the first of which came in 1915. The franchise has also experienced long periods of struggle. Since the first modern World Series was played in 1903, the Phillies played 77 consecutive seasons and 97 seasons from the club's establishment to win their first World Series—longer than any other of the 16 teams that made up the major leagues for the first half of the 20th century. The 77 season drought is the fourth longest World Series drought in Major League Baseball history. The longevity of the franchise and its history of adversity have earned it the dubious distinction of having lost the most games of any team in the history of American professional sports. Notwithstanding the collectively poor performance over the years, the Phillies have performed much better in recent seasons, winning five consecutive division titles from 2007 through 2011. </p>
+	</div>
+	<div class="paragraph1">
+<h3> Fun Links </h3> 
+	<p>For more information about the Philadelphia Phillies history, click <a href="http://en.wikipedia.org/wiki/Philadelphia_Phillies" target="_blank"> here</a></p>
+	</div>
+</body>
+</html>

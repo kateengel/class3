@@ -1,0 +1,62 @@
+.block {
+
+background: #eaeaea;
+float: left;
+display:inline ;
+width: 39%;
+padding:5%;
+margin: 0 auto;
+border: 1px solid black;
+height: 500px;
+}
+.anotherblock {
+	
+	display:inline ; 
+	background: #eaeaea; 
+	width: 39%; 
+	padding: 5%; 
+	border:1px solid black;
+	float: right;
+} 
+div{
+	background: #eaeaea; 
+	border:1px 1px solid black;
+	width:100%;
+}
+body {
+background: #CCCCFF;
+margin: 5%;
+width:900px;
+}
+
+.headers {
+padding: 5px 5px;
+font-size: 30px;
+font-style:Georgia;
+
+}
+
+li {
+	margin: 5px 2px;
+
+}
+div.panel {
+display:inline;
+}
+h1 {
+	padding: 20px 20px;
+}
+a {
+	text-decoration: none;
+	font-size: 20px;
+	color:#003300 !important;
+}
+
+a.facebook {
+	position:fixed;
+	bottom: 0;
+	top: 50%;
+	float:right;
+	margin-top:10px;
+	margin-left:80%;
+}

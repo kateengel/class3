@@ -1,0 +1,118 @@
+body {
+    background-color: #66CCFF;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+body.splunkflyers {
+	background-color: orange;
+}
+
+body.splunkeagles {
+	background-color:green;
+}
+
+body.splunkphillies {
+	background-color: red;
+}
+ul.nav {
+	
+	font-size: 18px;
+	font-family: Georgia;
+	text-align: center;
+
+	
+
+}
+
+ul.list {
+	list-style-type: square;
+	font-style: bold;
+	font-size: 14px;
+	float: left;
+	background-color: tan;
+	margin: 10px 10px;
+	padding: 5px 5px;
+	width: 80%;
+}
+
+li.list {
+	list-style-type: square;
+	font-style: italic;
+	font-size: 18px;
+	
+}
+h1 {
+	text-align: center;
+	font-color: #990099;
+}
+
+button {
+	display:inline;
+	float:left;
+	margin-left: 3px;
+	margin-right: 3px;
+	width: 70%;
+	font-size: 12px;
+	font-style:bold;
+	font-family: Georgia;
+	padding: 2px 2px;
+	border-radius: 1px;
+	width: 130px;
+	height: 35px;
+}
+
+li.nav {
+	display: inline;
+	text-align: center;
+	
+}
+
+a {
+	text-decoration: none !important;
+	font-style: bold;
+
+}
+
+p.Philly, p.Philly1 {
+	float: left;
+	font-size: 14epx;
+	background: #00FFFF;
+	padding: 5px 5px;
+	font-style: bold;
+}
+
+div.paragraph {
+	margin-left: 30%;
+}
+
+div.paragraph1 {
+	background: #cecece;
+	border: 1px solid grey;
+	width: 35%;
+	float: left;
+	padding: 5px 5px;
+}
+
+div.paragraph2 {
+	width: 35%;
+	float: left;
+	background: #cecece;
+	padding: 5px 5px;
+	border: 1px solid grey;
+}
+
+img.img {
+	width: 98%;
+	display:block;
+	margin-bottom: 10%;
+}
+div.images {
+	float: left;
+	width:25%;
+}
+
+div.image {
+	float: left;
+	width:25%;
+}

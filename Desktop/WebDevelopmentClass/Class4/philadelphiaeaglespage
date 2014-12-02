@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>Splunk Dashboard Redirect</title>
+		<link rel="stylesheet" type="text/css" href="navigation.css"/>
+	</head>
+<body class="splunkeagles">
+	<ul class="nav">
+  <li class="nav"> <button type="button"><a href="createnav.html">Home Page</a></button></li>
+  <li class="nav"> <button type="button"><a href="philadelphiaeaglespage">Philadelphia Eagles</a></button></li>
+  <li class="nav"> <button type="button"><a href="philadelphiaflyerspage">Philadelphia Flyers</a></button></li>
+  <li class="nav"> <button type="button"><a href="philadelphiaphilliespage">Philadelphia Phillies</a></button></li>
+</ul>
+<br> </br>
+<h1> Philadelphia Eagles</h1>
+<div class="image">
+<img class="img" src="philadelphiaeagles1.jpeg">  </img>
+<img class="img" src="philadelphiaeagles2.jpeg"> </img>
+<img class="img" src="philadelphiaeagles3.jpeg">  </img>
+<img class="img" src="philadelphiaeagles4.jpg"> </img>
+
+</div>
+<div class="paragraph"> 
+<h3> History</h3>
+<p> The Philadelphia Eagles were formed in 1933 to replace the Frankford Yellow Jackets as the Philadelphia NFL franchise team. The new team played its first game on October 15, 1933, against the New York Giants at the Polo Grounds in New York City. They lost the game 56-0. During the Eagles history, the team has won national championships in 1948 and 1960. The team has yet to win a SuperBowl since that tradition has started.</p>
+<p>  In 1943, when manpower shortages stemming from World War II made it impossible to fill the roster, the team temporarily merged with the Steelers to form a team popularly known as the "Steagles." The merger, never intended as a permanent arrangement, was dissolved at the end of the 1943 season.</p>
+<p> The Eagles stadiums throughout history include Connie Mack Stedium, Frankin Field, Veterans Stadium, and the most recent stadium, Lincoln Financial Field. </p>
+
+<h3> Eagles Now </h3>
+<p> The Philadelphia Eagles are currently having a winning season! With the new coach Chip Kelly, the team seems to be florishing in the "hurry up" offense. Key players include "Shady" (LeSean McCoy), Darren Sproles, Jeremy Maclin, and Nick Foles. Since Foles was injured several weeks ago, Mark Sanchez has seamlessly stepped into the role of starting quarterback and has been successful thus far in Chip Kelly's offensive design. I look forward to seeing how they will perform in December and hopefully will continue to see them play in the postseason. </p>
+
+<h3> Find out More </h3>
+<p class="Philly1"> For more information about the Philadelphia Eagles, you can access the following websites: <a href="http://www.philadelphiaeagles.com/team/roster.html" target="_blank"> Philadelphia Eagles Roster | </a> <a href="http://www.cbssports.com/nfl/teams/history/PHI" target="_blank"> History of Philadelphia Eagles</a> </p>
+<p class="Philly1"> Find them on Twitter: <a href="https://twitter.com/eagles" target=_"blank"> Philadelphia Eagles on Twitter </a> </p>
+</div>
+</body>
+</html>

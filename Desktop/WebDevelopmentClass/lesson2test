@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<link rel="stylesheet" type="text/css" href="homepage.css"/>
+		<title>Home Page</title>
+		<a href="splunkdashboard.html" > Click to go to Splunk Dashboard!</a>
+	</head>
+	<body>
+		<h1>Kate's Home Page</h1>
+		<h2>The place to come here what Kate has to say!!</h2>
+		
+		<b> Puppies </b>
+	<div id="container"></div>
+
+</body>
+</html>
